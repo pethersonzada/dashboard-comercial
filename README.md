@@ -13,6 +13,10 @@ Este projeto utiliza uma base de dados em Excel, com tratamento inicial, para cr
     Explore os dashboards para visualizar as métricas e análises.
     Atualize a base de dados no Excel, se necessário, e recarregue no Power BI.
 
+
+https://github.com/user-attachments/assets/70b1d721-4362-4abd-af72-e8d7f88f3747
+
+
 ## Fazendo alterações:
 
     Para adicionar novas métricas, use as medidas calculadas no Power BI.
