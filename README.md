@@ -22,3 +22,14 @@ https://github.com/user-attachments/assets/70b1d721-4362-4abd-af72-e8d7f88f3747
     Para adicionar novas métricas, use as medidas calculadas no Power BI.
     Caso altere a base de dados, garanta que ela esteja no mesmo formato do modelo atual.
     Para personalizar os dashboards, ajuste os visuais no Power BI conforme a sua necessidade
+
+## Aviso de Direitos Autorais
+
+Este projeto foi desenvolvido por Miguel Petherson e está protegido por direitos autorais. Ele não possui uma licença aberta, o que significa que:  
+
+- **Você não tem permissão para copiar, modificar ou redistribuir este código sem autorização prévia do autor.**
+- Caso queira usar este projeto para qualquer finalidade, entre em contato por email - pethersonzada@gmail.com  
+
+Por favor, respeite os direitos autorais e o trabalho investido neste projeto.  
+Agradeço pela compreensão! 😊
+
